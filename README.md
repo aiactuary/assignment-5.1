@@ -25,11 +25,15 @@ Dataset was investigated for missing or problematic data. It was identified that
 The data set showed an overall acceptance rate of 56.84% (Total observations: 12684; Accepted coupons: 7210). For the analysis to be useful, we needed to determine which characteristics (or combinations of thereof) will significantly increase acceptance rate relative to that benchmark.
 
 ### 3. Bar coupouns:
-Drivers characteristics were analysed to identify those that increase the likelihood of coupon acceptance:
+Various characteristics of the drivers were analysed to identify those that increase the likelihood of coupon acceptance:
     - Acceptance rate for those who went to a bar 3 or fewer times a month was 37.06%: less than half of the Acceptance rate for those who went to a bar more than 3 times a month: 76.88%.
     - Drivers who go to a bar more than once a month and are over 25 are more than twice as likely to accept the Bar coupon than other drivers: Acceptance rate for drivers who go to a bar more than once a month and are over 25: 69.52%; while Acceptance rate for all others: 33.50%
-    - A number or groups with various driver characteristics were analysed. The most likely group to accept Bar coupons was the drivers who go to cheap restaurants more than 4 times a month and have income of less than 50K (78.70%)
+    - A number or groups with various driver characteristics were analysed. The most likely group to accept Bar coupons was the drivers who go to cheap restaurants more than 4 times a month and have income of less than 50K (78.70%) and hence this group is reccomended for targeting bar coupons.
 
 ### 4. Coffee House Coupons:
-Drivers characteristics were analysed to identify those that increase the likelihood of coupon acceptance:
+Various characteristics of the drivers were analysed to identify those that increase the likelihood of coupon acceptance. The analysis showed that:
+ - Coffee house visitors (1+ times per months) are about 65% likely to accept coffee house coupons
+ - Those receiving coupons in the morning (10AM) are likely to accept coupon with 64% rate
+ - Young adults below 21 are the most likely age group to accept coffee house coupon
+When above characteristics were combined, analysis showed that Coffee house visitors (1+ times per months) who are receiving coupons in the morning (10AM) were the most likely group to accept the coffee house coupon (81.29%). Hence this group is recommended for coffee house coupons targeting.
 
