@@ -1,7 +1,7 @@
 # Required Assignment 5.1: Will the Customer Accept the Coupon?
 
 **Link to the Jupyter notebook:**
-https://github.com/aiactuary/assignment-5.1/blob/2378af20ba71cd24118c75cf53c883904d71518e/PracticalApplication1_OlenaKirzhner.ipynb
+https://github.com/aiactuary/assignment-5.1/blob/27d008254d9c037fd0ddd45655644d576435e30d/PracticalApplication1_OlenaKirzhner.ipynb
 
 ## **Context**
 
